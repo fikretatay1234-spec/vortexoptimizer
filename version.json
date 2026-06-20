@@ -1,1 +1,9 @@
-
+{
+  "version": "5.1.0",
+  "changelog": [
+    "Yeni FPS kalkanı eklendi.",
+    "Arayüz animasyonları optimize edildi.",
+    "Ağ Jitter sorunu çözüldü."
+  ],
+  "downloadUrl": "https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ/releases/download/v5.1.0/VortexOptimizer.Setup.exe"
+}
